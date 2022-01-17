@@ -1,0 +1,2886 @@
+[
+  {
+    "Floor": "0",
+    "Space": "Anexa curatenie",
+    "Asset Description": "Boiler TESY 10 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Armony",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Cafe de Fleurs",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Camera gunoi",
+    "Asset Description": "Boiler TESY 10 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Camera gunoi",
+    "Asset Description": "Split MITUBISHI",
+    "Asset Reference": "Split",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Camera prim ajutor",
+    "Asset Description": "Boiler TESY 10 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Dispecerat",
+    "Asset Description": "Split MITUBISHI",
+    "Asset Reference": "Split",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Dispecerat",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Dispecerat",
+    "Asset Description": "Centrala monoxid de carbon KM300",
+    "Asset Reference": "Centrala CO",
+    "freq": "Q"
+  },
+  {
+    "Floor": "0",
+    "Space": "Dispecerat",
+    "Asset Description": "Centrala incendiu ESSER FLEXES 18 - Honeywell",
+    "Asset Reference": "Centrala incendiu",
+    "freq": "Q"
+  },
+  {
+    "Floor": "0",
+    "Space": "Flying Pig",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Gr. sanitar P.D",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Receptie",
+    "Asset Description": "Split MITUBISHI",
+    "Asset Reference": "Split",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE AHU02",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Centrala Tratare Aer nr. 1 PROKLIMA KU 7 – M-DU50P-S ",
+    "Asset Reference": "Parter",
+    "freq": "M"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE TSCP_N",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE AHU01",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE TSCP_V",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE BMS-G1P",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Centrala Tratare Aer nr. 2 PROKLIMA KU 11 – M-DU50S-S ",
+    "Asset Reference": "Parter",
+    "freq": "M"
+  },
+  {
+    "Floor": "0",
+    "Space": "Spatiu tehnic AHU",
+    "Asset Description": "Tablou electric TE_TSEC_P",
+    "Asset Reference": "Tablouri electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "0",
+    "Space": "Vaca Muu",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler ",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 1C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE1 C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 1C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "1",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE1 C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler ",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 2C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 2C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 2C1_V",
+    "Asset Reference": "Camera electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "2",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 2C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 3C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 3C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 3C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "3",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 3C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "4",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 4C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "4",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 4C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "4",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 4C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "4",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "4",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 4C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Gr. sanitar (P.D.)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 5C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 5C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 5C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 5C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "5",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 6C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 6C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 6C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "6",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 6C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 7C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 7C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 7C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "7",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 7C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 8C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 8C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 8C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "8",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 8C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 9C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 9C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 9C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "9",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 9C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 10C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 10C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 10C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "10",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 10C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 11C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 11C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 11C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Vebtiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "11",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 11C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 12C1_V",
+    "Asset Reference": "Camere elctrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 12C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 12C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "12",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 12C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa calda VCV Bord zona inferioara PC 9.1/PC 9.2 Grundfos TPED 32-200/2 - S A - F - A BAQE",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Vas expansiune distributie rece Pneumatex SU 300.10 300 litri",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa racita VCV nord zona superioara PCR 19.1/PCR 19.2 Grundfos TPED 100 - 250/2 - S A - F - A BAQE",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Schimbator caldura apa racita AHU terasa HEX03 DANFOSS XGC-X026-L-5-PR-47 D-0 ",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa calda AHU parter PC 10.1/PC 10.2 Grundfos TPED 65-170/2 - S A - F - A BAQE",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa racita IT zona superioara PCR 23.1/PCR 23.2 Grundfos TPED 65 - 210/2 - S A - F -  A BAQE",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa calda VCV Sud zona inferioara PC 8.1/PC 8.2 Grundfos TPED 50 - 190/2 - 8 A - F - A BAQE ",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Substatie distributie agent termic",
+    "Asset Description": "Pompa dubla apa racita VCV Sud zona superioara PCR 18.1/ PCR 18.2 Grundfos TPED 150 - 220/4 - S A - F - A BAQE",
+    "Asset Reference": "Substatie etaj 13",
+    "freq": "M"
+  },
+  {
+    "Floor": "13",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 13C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 13C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 13C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "13",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 13C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 14C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 14C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 14C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "14",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 14C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 15C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 15C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 15C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 15C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "15",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 16C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 16C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 16C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "16",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 16C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 17C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 17C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 17C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 17C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "17",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 18C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 18C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 18C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "18",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 18C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 19C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 19C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 19C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "19",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 19C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 20C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 20C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 20C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "20",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 20C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 21C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 21C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 21C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "21",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 21C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Gr. snaitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 22C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 22C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 22C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "22",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 22C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 23C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 23C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 23C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 23C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "23",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 24C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 24C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 24C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "24",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 24C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 25C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 25C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 25C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Zona tehnica",
+    "Asset Description": "Ventiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "25",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 25C2_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Dus",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Gr. sanitar (B)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Gr. sanitar (F)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Gr. sanitar (P.D)",
+    "Asset Description": "Boiler TESY 30 litri",
+    "Asset Reference": "Boiler",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 26C2_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Zona tehnica",
+    "Asset Description": "Vebtiloconvectoare GEA",
+    "Asset Reference": "VCV",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 26C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 26C1_N",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "26",
+    "Space": "Zona tehnica",
+    "Asset Description": "Tablou electric distributie TE 26C1_V",
+    "Asset Reference": "Camere electrice",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Camera intretinere lifturi 1",
+    "Asset Description": "Split MITUBISHI",
+    "Asset Reference": "Split",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Camera intretinere lifturi 2",
+    "Asset Description": "Split MITUBISHI",
+    "Asset Reference": "Split",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Cazan nr. 1 pe combustibil lichid si gazos VIESSMANN VITOPLEX 100 P.n = 950 kw",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Pompa circulatie apa cazan PC 3 Grundfos TP80 - 120/2 A - F - A BUBE",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Pompa circulatie apa cazan PC 1 Grundfos TP80 - 120/2 A - F - A BUBE",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Unitate comanda VIESSMANN VITOTRONIC 300-K tip MW 1B",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Cazan nr. 2  pe combustibil gazos VIESSMANN VITOPLEX 100 P.n = 950 kw",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Cazan nr. 3  pe combustibil gazos VIESSMANN VITOPLEX 100 P.n = 950 kw",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Tablou electrict distributie TTeh_V",
+    "Asset Reference": "Centrala termica",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Statie dedurizare NOBEL ",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Pompa circulatie apa cazan PC 2 Grundfos TP80 - 120/2 A - F - A BUBE",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Arzator cazan nr. 2 RIELLO RS 100  Tip 822 T1  ",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Arzator cazan nr. 1 RIELLO RLS 100  Tip  688 T1",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Centrala termica",
+    "Asset Description": "Arzator cazan nr. 3 RIELLO RS 100  Tip 822 T1  ",
+    "Asset Reference": "Centrala termica",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Vas expansiune Pneumatex Transfero TG 1000.2 V = 1000 litri",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Vas expaniune Pneumatex Statico SD 35.3 V = 35 litri",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Vas expansiune Pneumatex Transfero TU 400.2 = 400 L",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Pompa  apa calda VCV zona superioara Sud  PC 4 Grundfos MAGNA 3 D 65-150                          ",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Pompa dubla apa calda AHU terasa  PC 6.1/6.2 Grundfos TPED 65 - 170/2 - S A - F - A BAQE",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Vas expaniune Pneumatex Statico SD 35.3 V = 35 litri",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Pompa dubla apa calda Etaj 13 PC 7.1/7.2  Grundfos TPED 65-170/2-S  A - F - A - BAQE",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Distributie agent termic",
+    "Asset Description": "Pompa apa calda VCV zona superioara Nord PC 5 Grundfos MAGNA 3D 50-180F                  ",
+    "Asset Reference": "Distributie agent termic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Centrala tratare aer nr. 4 PROKLIMA KU 15 – M-DV60P-S  ",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Centrala tratare aer nr. 3 PROKLIMA KU 15 – M-DV60P-S ",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU CVTT-10/10-1200 VE08",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Centrala tratare aer nr. 5 PROKLIMA KU 15 – M-DV60P-S  ",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Centrala tratare aer nr. 7 PROKLIMA KU 10 – M-DV50S-S ",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU ILB/4-225 VE01",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Centrala tratare aer nr. 6 PROKLIMA KU 10 – M-DV60P-S ",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU CVTT-10/10-1100 VE06",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU CVTT-15/15-1050 VE07",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU CVTT-10/10-1200 VE05",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU ILB/4-250 VE02",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Etaj tehnic",
+    "Space": "Exterior",
+    "Asset Description": "Ventilator evacuare SOLER & PALAU SLU CVB-1110/250 VE23",
+    "Asset Reference": "Etaj tehnic",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Pompa circulatie apa racita PCR 1 GRUNDFOS TP150 - 250/4 - A - F - A BAQE",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Pompa circulatie apa racita PCR 3 GRUNDFOS TP150 - 250/4 - A - F - A BAQE",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Ventilator presurizare SOLER & PALAU CVST-18/8-F400 VP 05",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Ventilator presurizare SOLER & PALAU CVST-18/8-F400 VP 07",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Pompa circulatie apa racita PCR 2 GRUNDFOS TP150 - 250/4 - A - F - A BAQE",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Ventilator presurizare SOLER & PALAU CVST-18/8-F400 VP 04",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Chiller nr. 1 TRANE RTHD 375 HSE",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Chiller nr. 3 TRANE CVGF-1 0650",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Chiller nr. 2 TRANE RTHD 375 XE",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Tablou electric distributie chillere TCCH",
+    "Asset Reference": "Chillere",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Chillere",
+    "Asset Description": "Ventilator presurizare SOLER & PALAU CVST-18/8-F400 VP 06",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Vas expansiune Pneumatex TG 1000.2. Transfero 1000 Ltr.",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa dubla echipamente IT substatie etaj 13 PCR22.1/PCR 22.2 Grundfos TPED 100 - 250/2 - S  A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa VCV zona superioara PCR 7Grundfos TPED 150-220/4 - S  A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Statie dedurizare NOBEL",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa AHU Parter PCR 6 Grundfos TPED 65-210/2-S  A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa dubla echipamente IT zona inferiora PCR21.1/PCR 21.2 Grundfos TPED 100 - 250/2 - S  A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa VCV Sud zona inferioara PCR 4 Grundfos TPED 125 300/4-S  A-F-A BAQE",
+    "Asset Reference": "Distribute apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa dubla AHU zona superioara PCR 8.1/PCR 8.2 Grundfos TPED 150 - 220/4 - S - A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Vas expansiune Pneumatex STATICO SU 300.10 300 ltr.",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Tablou electric distributie TSDAR",
+    "Asset Reference": "Distributie apa racita ",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Distributie Apa Racita",
+    "Asset Description": "Pompa VCV nord zona inferioara PCR 5 Grundfos TPED 100 - 250/2 - S  A - F - A BAQE",
+    "Asset Reference": "Distributie apa racita",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Generator",
+    "Asset Description": "Generator nr. 1 Caterpillar 3412 STA3 900 kVA COMPACT",
+    "Asset Reference": "Subsol 1",
+    "freq": "W"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Generator",
+    "Asset Description": "Generator nr. 2 Caterpillar 3412 STA3 900 kVA COMPACT",
+    "Asset Reference": "Subsol 1",
+    "freq": "W"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Generator",
+    "Asset Description": "Generator nr. 3 Caterpillar 3412 STA3 900 kVA COMPACT",
+    "Asset Reference": "Subsol 1",
+    "freq": "W"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Post Trafo",
+    "Asset Description": "Trafo nr. 1 2000 kvA",
+    "Asset Reference": "Subsol 1",
+    "freq": "A"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Post Trafo",
+    "Asset Description": "Trafo nr. 2 2000 kvA",
+    "Asset Reference": "Subsol 1",
+    "freq": "A"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Post Trafo",
+    "Asset Description": "Trafo nr. 3 2000 kvA",
+    "Asset Reference": "Subsol 1",
+    "freq": "A"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Tablou consumatori vitali",
+    "Asset Description": "Tablou electric distributie T Sec.",
+    "Asset Reference": "Subsol 1",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Tablou consumatori vitali",
+    "Asset Description": "Tablou electric TBMS G2 S1",
+    "Asset Reference": "Subsol 1",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Tablou consumatori vitali",
+    "Asset Description": "Tablou electric distributie TCC",
+    "Asset Reference": "Subsol 1",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 1",
+    "Space": "Tablou consumatori vitali",
+    "Asset Description": "UPS Socomec 30 kVA",
+    "Asset Reference": "Subsol 1",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Recipient de hidrofor sub presiune Airfix D-E-B  V=1000L ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 9",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 8",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Vas expansiune nr. 2 ELBI 750 ltr. ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 2 ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Vas expansiune nr. 1 ELBI 750 ltr.",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 4",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Recipient de hidrofor sub presiune Airfix D-E-B  V=1000L ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 1",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 7",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Vas expansiune ELBI 750 litri",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Pompa alimentare apa nr. 3 WILO HELIX V1612-1/2S/E/K400-50",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Vas expansiune ELBI 750 litri",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 3",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 5",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Tablou electric distributie TGPAP",
+    "Asset Reference": "Alimentare apa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Pompa alimentare apa nr. 1 WILO HELIX V1612-1/2S/E/K-400-50",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Pompa alimentare apa nr. 2 WILO Helix V1612-1/2S/E/K400-50",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Tablou comanda pompe alimentare apa",
+    "Asset Reference": "Alimentare apa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Alimentare cu apa",
+    "Asset Description": "Rezervor tampon apa potabila nr. 6",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Separator de hidrocarburi ",
+    "Asset Description": "Separator de hidrocarburi din beton cu by-pass ACO OLEOPASS  TN-20/160",
+    "Asset Reference": "Subsol S-2",
+    "freq": "Q"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Spatiu comun",
+    "Asset Description": "Pompa basa nr. 8 WILO MTS40/27-3",
+    "Asset Reference": "Pompa basa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator JET FAN SOLER & PALAU SLUT JHU/2/4-315-C 0,8/0,2 KW F300",
+    "Asset Reference": "Ventilator extragere fum",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator JET FAN SOLER & PALAU SLU IFHT/4/8-50N-C 1,1/0,18 KW F300",
+    "Asset Reference": "Ventilator extragere fum",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompare",
+    "Asset Description": "Pompe irigatii WILO CO2 MVI 408/CE",
+    "Asset Reference": "Grup pompe irigatii",
+    "freq": "A"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Tablou electric distributie TPCh",
+    "Asset Reference": "Statie pompe chillere",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Turn racire nr. 2 BAC FXVE - 0812B-30T-ML 2900 kW ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Vas expansiune Pneumatex Statico SU 140.10",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa basa nr. 6 WILO TS 50H 133/22-3-400-50-2",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa condensatori chiller PCR 13 GRUNDFOS NB 150-315.1/A-F1-A BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa primara free cooling PCR 10 GRUNDFOS NBE 125-200/219 EUA-F2-A-BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa secundara dubla free cooling PCR 9.1/PCR 9.2 GRUNDFOS TPED 150-160/4-S-A-F-A-BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa alimentare turn racire PCR 15 GRUNDFOS NB 150-250/262 EUP A-F-A-BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Tablou electric distributie TIT",
+    "Asset Reference": "Statie pompe chillere",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa condensatori chiller PCR14 GRUNDFOS NB 150-315.1/315 A-F1-A BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa alimentare turn racire PCR 16  GRUNDFOS NB 150-250/262 EUP A-F-A-BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa basa nr. 7 WILO MTS40/27-3",
+    "Asset Reference": "Pompa basa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa dubla vaporizator chiller IT 26.1/26.2 GRUNDFOS TPED 100 - 160/2-S - A - F - A - BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa dubla vaporizator chillere 24.1/24.2 Grundfos TPED 65-170/ 2 - A - F - A - BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Chiller IT Trane RTWD100 HE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Turn racire nr. 1 BAC FXVE - 0812B-30T-ML 2900 kW ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Statie dedurizare apa bazin turnuri NOBEL 1355/A3T ",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa primara free cooling PCR 11 GRUNDFOS NBE 125-200/219 EUA-F2-A-BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Statie pompe chillere",
+    "Asset Description": "Pompa condensatori chiller IT PCR 12 Grundfos TPED 65-170/ 2 - A - F - A - BAQE",
+    "Asset Reference": "Subsol 2",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou electric B",
+    "Asset Description": "Tablou electric distributie PCDS2_B",
+    "Asset Reference": "Subsol 2B",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou electric B",
+    "Asset Description": "Tablou electric distributie TS2 (B) V",
+    "Asset Reference": "Subsol 2B",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou electric B",
+    "Asset Description": "Tablou electric distributie TDesf S2_B",
+    "Asset Reference": "Subsol 2B",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou electric B",
+    "Asset Description": "Tablou electric distributie TJFS_2B",
+    "Asset Reference": "Subsol 2B",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou electric B",
+    "Asset Description": "Tablou electric TS2 (B) N",
+    "Asset Reference": "Subsol 2B",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric General",
+    "Asset Description": "Tablou General Distributie nr. 2 SCHNEIDER, Pi=2444kW",
+    "Asset Reference": "Subsol 2",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric General",
+    "Asset Description": "Tablou General Distributie nr. 1 SCHNEIDER, Pi=2444kW",
+    "Asset Reference": "Subsol 2",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric General",
+    "Asset Description": "Tablou General Distributie nr. 3 SCHNEIDER, Pi=2444kW",
+    "Asset Reference": "Subsol 2",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric Secundar",
+    "Asset Description": "Tablou electric distributie TDesf S2_A",
+    "Asset Reference": "T.E.G. Secundare",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric Secundar",
+    "Asset Description": "Tablou electric distributie TS2 (A) V",
+    "Asset Reference": "T.E.G. Secundare",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric Secundar",
+    "Asset Description": "Tablou electric distributie TS2( A) N",
+    "Asset Reference": "T.E.G. Secundare",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 2",
+    "Space": "Tablou Electric Secundar",
+    "Asset Description": "Tablou electric distributie PCD S2_A",
+    "Asset Reference": "T.E.G. Secundare",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Puturi lifturi pompieri",
+    "Asset Description": "Pompa basa nr. 3 WILO TS 50H 133/22-3-400-50-2",
+    "Asset Reference": "Put lifturi pompieri",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Puturi lifturi pompieri",
+    "Asset Description": "Pompa basa nr. 2 WILO TS 50H 133/22-3-400-50-2",
+    "Asset Reference": "Put lifturi pompieri",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Pompa basa nr. 4 WILO TS 50H 133/22-3-400-50-2",
+    "Asset Reference": "Pompa basa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator desfumare SOLER&PALAU CVHT-22/22-800",
+    "Asset Reference": "Ventilator desfumare",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator JET FAN SOLER & PALAU SLU IFHT/4/8-50N-C 1,1/0,18 KW F300",
+    "Asset Reference": "Ventilator extragere fum",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Pompa basa nr. 5 WILO MTS40/27-3",
+    "Asset Reference": "Pompa basa",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator presurizare SOLER&PALAU CVTT-12/12-1200",
+    "Asset Reference": "Ventilator presurizare VP",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator compensare SOLER&PALAU THT/4/8-630-6/32-A-3/0.65",
+    "Asset Reference": "Ventilator compensare",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator desfumare SOLER&PALAU CVHT-18/18-900",
+    "Asset Reference": "Ventilator desfumare",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Spatiu comun",
+    "Asset Description": "Ventilator JET FAN SOLER & PALAU SLUT JHU/2/4-315-C 0,8/0,2 KW F300",
+    "Asset Reference": "Ventilator extragere fum",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Vas expansiune nr. 2 distribuitor sprinklere NEMA, V = 750 ltr",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Tablou electric grup pompare hidranti",
+    "Asset Reference": "Statie pompe incendiu",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa hidranti nr. 3 WILO FFS-M 65/5-12-45/45/2,2",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Recipient hidrofor sub presiune nr. 1 Airfix D-E-B V=300L  ",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Tablou electric grup pompe sprinklere",
+    "Asset Reference": "Statie pompe incendiu",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa sprinklere nr. 2 WILO SiFIRE-EN-M-125L-2-23-132-1",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Tablou electric distributie TSPI",
+    "Asset Reference": "Statie pompe incendiu",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa sprinklere nr. 3 WILO  SiFIRE-EN-M-125L-2-23-132-1",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa alimentare autopompe pompieri nr. 2 Wilo FFS-3 HELIX FIRST V 5202/2 RBG DN150",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa basa nr. 1 WILO TS 50H 133/22-3-400-50-2",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa pilot hidranti interiori si exteriori nr. 1 WILO MVI 220/1/25/E/3-400-50-2",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa hidranti nr. 2 WILO FFS-M 65/5-12-45/45/2,2",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa alimentare autopompe pompieri nr. 1 Wilo FFS-3 HELIX FIRST V 5202/2 RBG DN150",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Vas expansiune distributie hidranti nr. 2  NEMA NEX  300 litri",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Vas expansiune distribuitor sprinklere nr. 1 NEMA V = 750 ltr.",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Pompa pilot sprinklere nr. 1 WILO MVI 220/1/25/E/3-400-50-2",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Recipient hidrofor sub presiune nr. 2 Airfix D-E-B V=300L  Pn25 bar",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare apa incendiu",
+    "Asset Description": "Vas expansiune distributie hidranti nr. 1  NEMA NEX 300 litri",
+    "Asset Reference": "Grup pompare PSI",
+    "freq": "M"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare ape pluviale si apa gri",
+    "Asset Description": "Tablou electric TEBMS",
+    "Asset Reference": "Statie apa gri",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare ape pluviale si apa gri",
+    "Asset Description": "Tablou electric de distributie TGPAG",
+    "Asset Reference": "Statie apa gri",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare ape pluviale si apa gri",
+    "Asset Description": "Tablou comanda pompe evacuare apa gri si ape pluviale",
+    "Asset Reference": "Statie apa gri",
+    "freq": "SA"
+  },
+  {
+    "Floor": "Subsol 3",
+    "Space": "Statie pompare ape pluviale si apa gri",
+    "Asset Description": "Tablou comanda pompe distributie apa gri",
+    "Asset Reference": "Statie apa gri",
+    "freq": "SA"
+  }
+]

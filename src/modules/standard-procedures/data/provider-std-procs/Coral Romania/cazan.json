@@ -1,0 +1,94 @@
+{
+  "base_uuid": "227784d4-9777-4eaf-99e0-85f6e7dde1a8",
+  "category": "Heating",
+  "group_name": "Cazan",
+  "procedures": [
+    {
+      "frequency": "1_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea  vizuala a cazanului si a subansamblelor acestuia. Se va urmari sa nu existe defecte mecanice, zgomote sau vibratii anormale in functionare",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": true
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": true
+            }
+          ]
+        },
+        {
+          "type": "visual",
+          "description": "Verificarea tabloului electric (protectie, lampa de semnalizare, curatarea de praf daca este cazul)",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": true
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": true
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "frequency": "3_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea  vizuala . Se va urmari sa nu existe defecte mecanice, zgomote sau vibratii anormale in functionare.",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        },
+        {
+          "type": "visual",
+          "description": "Se vor verifica vanele de incarcare/golire/sectorizare aferente cazanelor.",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

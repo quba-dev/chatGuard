@@ -1,0 +1,94 @@
+{
+  "base_uuid": "de61233b-8966-419a-8a9f-ca76b22c25a4",
+  "category": "Cooling",
+  "group_name": "Unitate aer conditionat",
+  "procedures": [
+    {
+      "frequency": "1_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea  vizuala . Se va urmari sa nu existe defecte mecanice, zgomote sau vibratii anormale in functionare.",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": true
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": true
+            }
+          ]
+        },
+        {
+          "type": "visual",
+          "description": "Se va curata echipamentul de praf ( la exterior), daca este cazul. Se vor verifica si curata, daca este cazul, filtrul si tavita de condens.",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": true
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": true
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "frequency": "3_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea si completarea ( daca este cazul) cu agent frigorific",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        },
+        {
+          "type": "visual",
+          "description": "Verificarea tabloului electric din care este alimentata unitatea. Se vor verifica aparatele de protectie.",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

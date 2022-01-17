@@ -1,0 +1,68 @@
+{
+  "units": [
+    {
+      "name": "tensiune_v"
+    },
+    {
+      "name": "intensitate_curent_a"
+    },
+    {
+      "name": "putere_kw"
+    },
+    {
+      "name": "capacitate_frigorifica_btu_h"
+    },
+    {
+      "name": "debit_aer_m3_h"
+    },
+    {
+      "name": "debit_apa_m3_h"
+    },
+    {
+      "name": "temperatura_c"
+    },
+    {
+      "name": "volum_m3"
+    },
+    {
+      "name": "presiune_bar"
+    },
+    {
+      "name": "presiune_pa"
+    },
+    {
+      "name": "putere_aparenta_kwa"
+    },
+    {
+      "name": "inaltime_pompare_mca"
+    },
+    {
+      "name": "indicator_nivel_procent"
+    },
+    {
+      "name": "factor_putere_cos_phi"
+    },
+    {
+      "name": "frecventa_hz"
+    },
+    {
+      "name": "ore_operare_h"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,86 @@
+{
+  "base_uuid": "000a4c9c-ef56-4299-a489-49fa7066ac53",
+  "category": "Cooling",
+  "group_name": "Chiller apa",
+  "procedures": [
+    {
+      "frequency": "1_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea  vizuala a chiller-ului si a subansamblelor acestuia. Se va urmari sa nu existe defecte mecanice, pierderi de lichide, zgomote sau vibratii anormale in functionare",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        },
+        {
+          "type": "parameter",
+          "description": "Inspectia vizuala a subansamblelor",
+          "parameters": [
+            {
+              "name": "Temperatura ulei",
+              "unit": "temperatura_c"
+            },
+            {
+              "name": "Nivel ulei",
+              "unit": "indicator_nivel_procent"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "frequency": "6_month",
+      "type": "soft",
+      "subtype": "",
+      "operations": [
+        {
+          "type": "visual",
+          "description": "Verificarea  vizuala a chiller-ului si a subansamblelor acestuia. Se va urmari sa nu existe defecte mecanice, pierderi de lichide, zgomote sau vibratii anormale in functionare",
+          "labels": [
+            {
+              "name": "Conform",
+              "generates_alert": false
+            },
+            {
+              "name": "Neconform",
+              "generates_alert": true
+            },
+            {
+              "name": "Nu se aplica",
+              "generates_alert": false
+            }
+          ]
+        },
+        {
+          "type": "parameter",
+          "description": "Inspectia vizuala a subansamblelor",
+          "parameters": [
+            {
+              "name": "Temperatura ulei",
+              "unit": "temperatura_c"
+            },
+            {
+              "name": "Nivel ulei",
+              "unit": "indicator_nivel_procent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
